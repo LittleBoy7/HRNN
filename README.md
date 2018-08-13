@@ -1,2 +1,2 @@
 # HRNN
-有一些问题，正在等待原作者回复，可能是数据的预处理方面
+There are some problems waiting to be solved
